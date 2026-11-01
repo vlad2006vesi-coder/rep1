@@ -1,0 +1,18 @@
+{
+  "Group": "group",
+  "Name": "ModName",
+  "Version": "1.0.0",
+  "Description": "Your description",
+  "Authors": [
+    {
+      "Name": "your name"
+    },
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "package.mainclass",
+  "IncludesAssetPack": true
+}
